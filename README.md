@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/kozlown/ciqual-table-api)
+
 # ciqual-table-api
 REST API for the [Ciqual French Food Composition Table](https://ciqual.anses.fr/).
 
